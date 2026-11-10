@@ -4,7 +4,6 @@
 
 ### Full-Stack Web Developer · E-commerce Specialist · AI UGC Creator · Video Editor
 
-<img src="./fawad-binary.png" alt="Muhammad Fawad — cyber-tech portrait" width="100%" />
 
 <p>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Building+Modern+Digital+Experiences;Full-Stack+Web+Development;E-commerce+%26+Store+Development;AI-Powered+UGC+Content+Creation;Creative+Video+Editing+%26+Motion+Graphics" alt="Animated introduction" />
